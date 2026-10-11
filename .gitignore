@@ -1,0 +1,12 @@
+# Publish only the reviewed tutorial and brand assets.
+*
+!.gitignore
+!README.md
+!LICENSE
+!docs/
+docs/*
+!docs/usage.md
+!assets/
+assets/*
+!assets/logo.svg
+!assets/logo-light.svg
