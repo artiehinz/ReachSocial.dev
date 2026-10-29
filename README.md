@@ -7,9 +7,11 @@
 
 # ReachSocial
 
+[![Glama MCP connector](https://img.shields.io/badge/Glama-MCP%20connector-6D4AFF)](https://glama.ai/mcp/connectors/dev.reachsocial/reach-social-one-api-for-social-media-data)
+
 **One API for social media data.**
 
-Get public profiles, posts, and feeds from Instagram, X, and TikTok.
+Get public profiles, posts, and feeds from Instagram, X, TikTok, YouTube, Facebook, and Reddit.
 Connect once and get JSON your app or AI agent can use.
 
 **$0.05 per successful request.** Pay in USDC on Base through x402.
