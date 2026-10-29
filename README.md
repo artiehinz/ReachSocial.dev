@@ -8,6 +8,7 @@
 # ReachSocial
 
 [![Glama MCP connector](https://img.shields.io/badge/Glama-MCP%20connector-6D4AFF)](https://glama.ai/mcp/connectors/dev.reachsocial/reach-social-one-api-for-social-media-data)
+[![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-listed-0f766e)](https://registry.modelcontextprotocol.io/?q=dev.reachsocial%2Fsocial-data)
 
 **One API for social media data.**
 
