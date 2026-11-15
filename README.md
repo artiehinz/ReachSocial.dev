@@ -15,23 +15,36 @@
 Get public profiles, posts, and feeds from Instagram, X, TikTok, YouTube, Facebook, and Reddit.
 Connect once and get JSON your app or AI agent can use.
 
-**$0.05 per successful request.** Pay in USDC on Base through x402.
-No subscription, prepaid credit pack, or ReachSocial signup.
+**Start with 100 successful calls free.** Verify your email and get one API key for all 15 public APIs. No card or wallet is needed to start.
 
-[**Get started →**](https://reachsocial.dev/#agent-setup) · [Available APIs](https://reachsocial.dev/catalog) · [Pricing](https://reachsocial.dev/pricing) · [API docs](https://reachsocial.dev/docs/api)
+| Credit pack | Card or native USDC on Base | Successful calls |
+|---|---|---:|
+| Starter | $10 / 10 USDC | 1,000 |
+| Growth | $50 / 50 USDC | 10,000 |
+| Scale | $100 / 100 USDC | 25,000 |
+
+Purchased credits never expire. No subscriptions or automatic top-ups.
+Keyless x402 calls cost **0.05 USDC each**, with no account or API key.
+
+[**Start free**](https://reachsocial.dev/app) | [Available APIs](https://reachsocial.dev/catalog) | [Pricing](https://reachsocial.dev/pricing) | [API docs](https://reachsocial.dev/docs/api)
 
 ### Give your agent the link
 
 Copy this into your AI agent:
 
 ```text
-Read https://reachsocial.dev/agent.md and help me set up ReachSocial.
-Check available services and prices. Help me connect an x402-compatible
-wallet with USDC on Base. Ask me for a spending limit before paid requests.
-Keep wallet secrets out of chat.
+Read https://reachsocial.dev/agent.txt and help me get public social data.
+Check signup availability first. Reuse my existing access, or guide me through
+email verification when available and save my API key securely without showing it.
+Ask for my email only if needed, and ask which URL/data I need. Use Free credits only.
+Briefly explain current credit packs and optional USDC pay-per-call access.
+Get my approval before spending paid credits or USDC. Keep replies short,
+preserve request keys for recovery, and keep secrets out of chat.
 ```
 
-Your agent needs HTTP tools and a compatible wallet integration.
-Public paid REST calls need no API key; private integrations and MCP require approved access.
+Email-first setup needs HTTP tools and private credential storage. Agents check
+current signup availability and offers at `/v1/billing/packs`.
+A compatible wallet/signer is needed only for keyless USDC payments.
+REST and MCP support managed API keys; OAuth prepaid spending requires explicit consent.
 
-[API tutorial](docs/usage.md) · [Documentation license](LICENSE)
+[API tutorial](docs/usage.md) | [OpenAPI](https://reachsocial.dev/openapi.json) | [Documentation license](LICENSE)
