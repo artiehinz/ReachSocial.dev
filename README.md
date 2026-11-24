@@ -15,7 +15,7 @@
 Get public profiles, posts, and feeds from Instagram, X, TikTok, YouTube, Facebook, and Reddit.
 Connect once and get JSON your app or AI agent can use.
 
-**Start with 100 successful calls free.** Verify your email and get one API key for all 15 public APIs. No card or wallet is needed to start.
+**Verify your email for 100 free successful calls, once.** No card or wallet needed. Your email-verified ReachSocial account gets one API key for all 15 public APIs.
 
 | Credit pack | Card or native USDC on Base | Successful calls |
 |---|---|---:|
@@ -24,7 +24,7 @@ Connect once and get JSON your app or AI agent can use.
 | Scale | $100 / 100 USDC | 25,000 |
 
 Purchased credits never expire. No subscriptions or automatic top-ups.
-Keyless x402 calls cost **0.05 USDC each**, with no account or API key.
+Keyless x402 calls cost **0.05 USDC per successful call** on Base, with no account or API key.
 
 [**Start free**](https://reachsocial.dev/app) | [Available APIs](https://reachsocial.dev/catalog) | [Pricing](https://reachsocial.dev/pricing) | [API docs](https://reachsocial.dev/docs/api)
 

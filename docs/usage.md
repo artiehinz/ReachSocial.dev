@@ -6,7 +6,7 @@ Base URL: `https://reachsocial.dev`
 
 Open the [workspace](https://reachsocial.dev/app), enter your email, and paste
 the verification code on the same page. Save the API key when it appears.
-Your account gets 100 successful calls once, shared across all 15 public APIs.
+Your email-verified ReachSocial account gets 100 free successful calls once, shared across all 15 public APIs.
 No wallet or card is required.
 
 To let an agent set this up, give it the [agent guide](https://reachsocial.dev/agent.txt).
